@@ -1,0 +1,14 @@
+release_notes/fragments/22346.yaml
+  h_9d0b4aaac98476 1-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6+huawei.3",
+  "base_commit_sha": "121f404fc9730a9317a8f3020c1bea9c5f0f9b51",
+  "prompts": {},
+  "humans": {
+    "h_9d0b4aaac98476": {
+      "author": "liao (R) <l00940005@china.huawei.com>"
+    }
+  }
+}

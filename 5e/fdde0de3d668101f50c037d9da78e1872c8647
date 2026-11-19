@@ -1,0 +1,16 @@
+csrc/attention/kv_quant_sparse_flash_attention_vllm/op_kernel/kv_quant_sparse_flash_attention_vllm_kernel_mla.h
+  h_9d0b4aaac98476 371-377
+release_notes/fragments/22346.yaml
+  h_9d0b4aaac98476 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6+huawei.3",
+  "base_commit_sha": "5efdde0de3d668101f50c037d9da78e1872c8647",
+  "prompts": {},
+  "humans": {
+    "h_9d0b4aaac98476": {
+      "author": "liao (R) <l00940005@china.huawei.com>"
+    }
+  }
+}

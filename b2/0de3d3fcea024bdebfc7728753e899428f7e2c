@@ -1,0 +1,38 @@
+release_notes/fragments/22346.yaml
+  h_9d0b4aaac98476 4
+tests/e2e/nightly/single_node/ops/singlecard_ops/triton/test_dcp_pre_post.py
+  h_9d0b4aaac98476 281-320
+tests/e2e/nightly/single_node/ops/singlecard_ops/triton/test_sfa_dcp.py
+  h_9d0b4aaac98476 36
+tests/ut/attention/test_sfa_cp_precision.py
+  h_9d0b4aaac98476 178,214-223,270-272,408,410-417
+tests/ut/model_executor/warmup/test_kernel_warmup.py
+  h_9d0b4aaac98476 340-341,368
+vllm_ascend/attention/context_parallel/sfa_cp.py
+  h_9d0b4aaac98476 768,784,795,970-971,1002-1015,1025
+vllm_ascend/attention/indexer.py
+  h_9d0b4aaac98476 937-946,959,963-964,1610
+vllm_ascend/device/device_op.py
+  h_9d0b4aaac98476 1777,1803-1805
+vllm_ascend/model_executor/warmup/kernel_warmup.py
+  h_9d0b4aaac98476 151-156,161,171
+vllm_ascend/ops/triton/dcp/dcp_a2a.py
+  h_9d0b4aaac98476 28,52-53,73-76,79,81,293-299,306,308,319,328,333-335,360,386,563,574-577,585,617,626,663,677
+vllm_ascend/ops/triton/dcp/dcp_a2a_batched.py
+  h_9d0b4aaac98476 42,68-69,108-111,114,118
+vllm_ascend/ops/triton/dcp/dcp_warmup.py
+  h_9d0b4aaac98476 109,118,138-148,167-178,185,192,201-203,236-254
+vllm_ascend/ops/triton/dcp/sfa_dcp_exchange.py
+  h_9d0b4aaac98476 23,32-35,40,44,58,78-79,81-83,88-90,96-98,101,107,124,147-148,150-152,161-163,173-175,178,211-213,228,245,253,269,290,309,323,335,348
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6+huawei.3",
+  "base_commit_sha": "b20de3d3fcea024bdebfc7728753e899428f7e2c",
+  "prompts": {},
+  "humans": {
+    "h_9d0b4aaac98476": {
+      "author": "liao (R) <l00940005@china.huawei.com>"
+    }
+  }
+}

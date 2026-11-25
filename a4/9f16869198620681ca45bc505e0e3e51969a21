@@ -1,0 +1,22 @@
+tests/ut/device/test_hardware_profile.py
+  h_9d0b4aaac98476 70
+tests/ut/ops/test_linear.py
+  h_9d0b4aaac98476 13-14,230-266
+vllm_ascend/attention/sfa_v1.py
+  h_9d0b4aaac98476 63,898,2343,2346-2347
+vllm_ascend/device/hardware_profile.py
+  h_9d0b4aaac98476 61-62,408
+vllm_ascend/ops/linear.py
+  h_9d0b4aaac98476 50,416-467
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6+huawei.3",
+  "base_commit_sha": "a49f16869198620681ca45bc505e0e3e51969a21",
+  "prompts": {},
+  "humans": {
+    "h_9d0b4aaac98476": {
+      "author": "liao (R) <l00940005@china.huawei.com>"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+tests/ut/attention/test_sfa_nope_forward.py
+  h_9d0b4aaac98476 293
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6+huawei.3",
+  "base_commit_sha": "e21956b2230b1de0fe197ad2c0499c75205220cb",
+  "prompts": {},
+  "humans": {
+    "h_9d0b4aaac98476": {
+      "author": "liao (R) <l00940005@china.huawei.com>"
+    }
+  }
+}

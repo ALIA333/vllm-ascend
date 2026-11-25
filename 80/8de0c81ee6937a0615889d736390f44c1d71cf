@@ -1,0 +1,18 @@
+csrc/attention/quant_lightning_indexer_v2/quant_lightning_indexer_v2_torch_adpt.h
+  h_9d0b4aaac98476 190,202
+csrc/torch_binding.cpp
+  h_9d0b4aaac98476 1364-1396,3278
+tests/e2e/nightly/single_node/ops/singlecard_ops/test_quant_sparse_lightning_indexer_metadata.py
+  h_9d0b4aaac98476 41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6+huawei.3",
+  "base_commit_sha": "808de0c81ee6937a0615889d736390f44c1d71cf",
+  "prompts": {},
+  "humans": {
+    "h_9d0b4aaac98476": {
+      "author": "liao (R) <l00940005@china.huawei.com>"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+vllm_ascend/attention/sfa_v1.py
+  h_9d0b4aaac98476 944-949
+vllm_ascend/ops/linear.py
+  h_9d0b4aaac98476 420-421
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6+huawei.3",
+  "base_commit_sha": "0ff84f504052bacf02b090bf7c80d2924d54c4ec",
+  "prompts": {},
+  "humans": {
+    "h_9d0b4aaac98476": {
+      "author": "liao (R) <l00940005@china.huawei.com>"
+    }
+  }
+}

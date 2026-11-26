@@ -1,0 +1,46 @@
+csrc/attention/quant_lightning_indexer_v2/README.md
+  h_9d0b4aaac98476 177-178,196-197
+csrc/attention/quant_lightning_indexer_v2/docs/aclnnQuantLightningIndexerV2.md
+  h_9d0b4aaac98476 496,499
+csrc/attention/quant_lightning_indexer_v2/op_host/quant_lightning_indexer_v2_tiling.cpp
+  h_9d0b4aaac98476 735,737-740
+csrc/attention/quant_lightning_indexer_v2/op_host/vllm_ascend_quant_lightning_indexer_v2_def.cpp
+  h_9d0b4aaac98476 23-24
+csrc/attention/quant_lightning_indexer_v2/op_kernel/arch22/quant_lightning_indexer_v2_kernel_arch22.h
+  h_9d0b4aaac98476 135,623-630,646,899,903-912
+csrc/attention/quant_lightning_indexer_v2/op_kernel/arch22/quant_lightning_indexer_v2_service_vector_arch22.h
+  h_9d0b4aaac98476 88-89,106-107,219,331-334,421-422,429,479,484-494,1993-2006,2009,2381-2382,2385-2398
+csrc/attention/quant_lightning_indexer_v2/quant_lightning_indexer_v2_torch_adpt.h
+  h_9d0b4aaac98476 172
+csrc/attention/quant_lightning_indexer_v2/torch_extension/csrc/quant_lightning_indexer.cpp
+  h_9d0b4aaac98476 168
+csrc/attention/quant_lightning_indexer_v2/torch_extension/quant_lightning_indexer.py
+  h_9d0b4aaac98476 22,147,151,157
+csrc/torch_binding_meta.cpp
+  h_9d0b4aaac98476 880
+release_notes/fragments/22346.yaml
+  h_9d0b4aaac98476 5-10
+tests/e2e/nightly/single_node/ops/singlecard_ops/test_quant_lightning_indexer_v2.py
+  h_9d0b4aaac98476 19-24,457,459-462,466,477-478,505,540-571,585,588-618,633-718
+tests/e2e/nightly/single_node/ops/singlecard_ops/test_quant_sparse_lightning_indexer_metadata.py
+  h_9d0b4aaac98476 105,119
+tests/e2e/nightly/single_node/ops/singlecard_ops/triton/test_dcp_candidates.py
+  h_9d0b4aaac98476 131-132,134,137,140-174
+vllm_ascend/device/device_op.py
+  h_9d0b4aaac98476 133
+vllm_ascend/ops/triton/docs/sharded_indexer.md
+  h_9d0b4aaac98476 17,33,53
+vllm_ascend/ops/triton/sharded_indexer.py
+  h_9d0b4aaac98476 50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6+huawei.3",
+  "base_commit_sha": "9fd6f7d2f85b959cf7689ba72e6c7b311a10432c",
+  "prompts": {},
+  "humans": {
+    "h_9d0b4aaac98476": {
+      "author": "liao (R) <l00940005@china.huawei.com>"
+    }
+  }
+}

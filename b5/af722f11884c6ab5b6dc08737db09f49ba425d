@@ -1,0 +1,18 @@
+vllm_ascend/attention/indexer.py
+  h_9d0b4aaac98476 1111-1113
+vllm_ascend/ops/triton/docs/sharded_indexer.md
+  h_9d0b4aaac98476 17-18,33-34
+vllm_ascend/ops/triton/sharded_indexer.py
+  h_9d0b4aaac98476 21-23,27,29-36,43,48-49,51,60,168,183,431,433-437,444,447-450,452-453,512-516,518,520-523,525,556
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6+huawei.3",
+  "base_commit_sha": "b5af722f11884c6ab5b6dc08737db09f49ba425d",
+  "prompts": {},
+  "humans": {
+    "h_9d0b4aaac98476": {
+      "author": "liao (R) <l00940005@china.huawei.com>"
+    }
+  }
+}

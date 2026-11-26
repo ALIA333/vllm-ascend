@@ -1,0 +1,14 @@
+vllm_ascend/ops/fused_moe/fused_moe.py
+  h_9d0b4aaac98476 188-190,193-196,286
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6+huawei.3",
+  "base_commit_sha": "3a97aae98a1fd0c591b265d3daa5469bf1985cf9",
+  "prompts": {},
+  "humans": {
+    "h_9d0b4aaac98476": {
+      "author": "liao (R) <l00940005@china.huawei.com>"
+    }
+  }
+}
